@@ -23,7 +23,7 @@ To replicate or extend this analysis, ensure you have the following dependencies
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Stephen-Austine/ARIMA_Modeling.git
-   ```
+
 2. Open `ARIMA_Modeling.Rmd` in RStudio.
 3. Run the R Markdown document to execute the analysis, which includes:
    - Loading and visualizing the AirPassengers dataset.
@@ -33,7 +33,7 @@ To replicate or extend this analysis, ensure you have the following dependencies
 4. Render the R Markdown file to generate a PDF report:
    ```R
    rmarkdown::render("ARIMA_Modeling.Rmd")
-   ```
+   
 
 ## Analysis Steps
 - **Step 1**: Explore the time series pattern (trend, seasonality, variance).
