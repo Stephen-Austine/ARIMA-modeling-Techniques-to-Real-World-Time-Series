@@ -1,4 +1,4 @@
-```
+
 # ARIMA Modeling Techniques for Real-World Time Series
 
 ## Overview
@@ -62,7 +62,6 @@ Feel free to fork this repository, submit issues, or propose enhancements. Contr
 ## Acknowledgments
 - Data source: Built-in R `AirPassengers` dataset.
 - Inspired by time series analysis techniques from the `forecast` package documentation.
-```
 
 
 
